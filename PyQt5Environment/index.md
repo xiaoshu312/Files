@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1dff3d7fae1b9eeafefd7f1039f09e2cd3dea92baa949c4941ee6c6df79a80e
-size 304
+# [小树的网盘](https://xiaoshu312.github.io/Files/)
+
+## [PyQt5Environment](<.>)
+
+- [GitHubDesktop2Chinese.exe](<GitHubDesktop2Chinese.exe>)
+- [GitHubDesktopSetup-x64.exe](<GitHubDesktopSetup-x64.exe>)
+- [localization.json](<localization.json>)
+- [python-3.11.9-amd64.exe](<python-3.11.9-amd64.exe>)
