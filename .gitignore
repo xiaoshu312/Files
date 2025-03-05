@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e181f8db578422c504d37749e1a26313611289af672720127e3c4968b46e48f
-size 96
+
+# default
+.DS_Store
+
+# 排除 PyCharm 项目文件
+.idea/
+
+# 排除不上传的文件
+.release/
