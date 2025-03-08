@@ -91,7 +91,7 @@ if __name__ == "__main__":
                         help="根目录路径（默认：当前目录）")
     parser.add_argument("--output", default="index.md",
                         help="根目录索引文件名（默认：index.md）")
-    parser.add_argument("--exclude", nargs="*", default=[],
+    parser.add_argument("--exclude", nargs="*", default=['404.md'],
                         help="要排除的文件/目录列表")
     args = parser.parse_args()
 
