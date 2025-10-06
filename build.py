@@ -40,7 +40,7 @@ def generate_directory_index(root_dir, output_file, exclude):
 
     # 生成目录索引文件
     for rel_path, data in directories.items():
-        content = ['# [小树的网盘](https://xiaoshu312.github.io/Files/)\n\n']
+        content = ['# [小树的网盘](/)\n\n']
         depth = data["depth"]
         current_dir = os.path.join(root_dir, rel_path)
 
